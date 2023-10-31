@@ -2,6 +2,17 @@
 
 Portfólio de aprendizagem do IFRN, versão web
 
+## Criação de ambiente virtual
+
+Para criar um ambiente virtual do Python, execute:
+
+- `python3 -m venv .venv`
+
+## Ativação do ambiente virtual
+
+Para ativar o ambiente virtual recém-instalado, execute:
+
+- `source .venv/bin/activate`
 
 ## Instalação da ferramenta e das dependências
 
