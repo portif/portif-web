@@ -4,6 +4,12 @@ site_author: Seu Nome completo
 # Para publicação no servidor web local
 #site_dir: /var/www/html
 
+# Repositório
+# Ajuste a URL e o nome de seu repositório, e posteriormente descomente as 3 linhas abaixo.
+#repo_url: https://github.com/Gustavoifrn/portif-web
+#repo_name: Gustavoifrn/portif-web
+#edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: pt
