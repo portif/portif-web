@@ -1,0 +1,17 @@
+site_name: Nome de seu site
+site_author: Seu Nome completo
+
+# Para publicação no servidor web local
+#site_dir: /var/www/html
+
+theme:
+  name: material
+  language: pt
+
+# Ativa extensões do Markdown (Ex.: Emojis)
+markdown_extensions:
+  - pymdownx.emoji
+
+# Habilita diagramas com a linguagem Mermaid JS
+plugins:
+    - mermaid2
